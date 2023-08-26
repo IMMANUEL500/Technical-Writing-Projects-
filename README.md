@@ -9,7 +9,7 @@ Web3 Technical Articles that Educate about Web3, Blockchain, Solidity, Projects,
   2. The Blockchain Industry: Imagine a world where you can send money directly to someone without a bank — in seconds instead of days, and yet you don’t pay exorbitant bank fees or one where you store money in an online wallet not tied to a bank, meaning you are your bank and have complete control over your money. You don’t need a bank’s permission to access or move it, and never have to worry about a third party taking it away, or a government’s economic policy manipulating it? In this section, I explained the SOLUTIONS the Blockchain Industry SOLVES.
 
 
-* ### [Web3 Development In 2023](https://github.com/IMMANUEL500/Technical-Writing-Projects-/blob/main/Web3%20Development.pdf)
+* ### [Web3 Development In 2023](https://docs.google.com/document/d/1Qn24Vt_P3QlBNy-B2-Aw_aFjW_sqpe449u8jTamojnU/edit#heading=h.ltj754ffxb6a)
   1. The Origin of Web3: “Beginner-Friendly Guide to Web”, The aim of the Article was to help you understand the complex world of Web3 like ABC in a friendly way that even a 10-year-old child would get to understand. We delved into the origins of Web3, its key principles, and how it contracts with Web2 and Web1 eras. Exploring different other aspects of the Web including the potential benefits.
  
   2. Features of Web3: In this section, we provided an overview of how Web3 elevates the user experience to unprecedented levels of control and ownership. It marks an evolution towards a more democratic digital space where users consume and contribute content and exercise absolute ownership over their online assets and data.
